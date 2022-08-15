@@ -1,0 +1,6 @@
+print("MESIN MODULO")
+data = input("masukan angka di sini: ")
+a = int(data)
+mod = (a % 2)
+print(" ")
+print("modulo dari ", a, " adalah ", mod)  
